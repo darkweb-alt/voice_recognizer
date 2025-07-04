@@ -1,0 +1,11 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore cache
+__pycache__/
+
+# Ignore audio recordings
+*.wav
+
+# Ignore other temporary files
+*.pyc
